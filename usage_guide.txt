@@ -1,0 +1,7 @@
+Funny tool to mess with someone that leaves their Mac open.
+
+cd Music
+git clone https://github.com/adam-23/dogz
+cd dogz
+chmod +x *
+./dogbomb.sh
