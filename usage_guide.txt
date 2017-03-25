@@ -1,4 +1,5 @@
 Funny tool to mess with someone that leaves their Mac open.
+Opens omfgdogs.com on them every 20 minutes.
 
 cd Music
 git clone https://github.com/adam-23/dogz
