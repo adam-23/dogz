@@ -3,6 +3,6 @@
 # Use ps -ef to find me.
 # Use pkill to kill me.
 
-dogz () { while true; do open 'http://omfgdogs.com' ; sleep 30 ; done }
+dogz () { while true; do open 'http://omfgdogs.com' ; sleep 1200 ; done }
 dogz &
 exit
